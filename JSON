@@ -1,0 +1,352 @@
+{
+    "documents": [
+        {
+            "id": "id__574",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.57,
+                "neutral": 0.12,
+                "negative": 0.31
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.05,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 148,
+                    "text": "We stayed here last minute due to Storm Eunice forcing us to go to London a day early as it was by far the best value hotel in the Bloomsbury area. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 118,
+                            "length": 5,
+                            "text": "hotel",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 107,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 107,
+                            "length": 10,
+                            "text": "best value",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.65,
+                        "neutral": 0.23,
+                        "negative": 0.11
+                    },
+                    "offset": 148,
+                    "length": 256,
+                    "text": "Like many we've stayed away from the hotel before in favour of fancier hotels closer to the centre of town as this hotel has a reputation for being very basic as one of the few central London hotels with rooms regularly within work hotel allowance limits.\n",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.64,
+                                "negative": 0.36
+                            },
+                            "offset": 263,
+                            "length": 5,
+                            "text": "hotel",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "mixed",
+                            "confidenceScores": {
+                                "positive": 0.64,
+                                "negative": 0.36
+                            },
+                            "offset": 301,
+                            "length": 5,
+                            "text": "basic",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 404,
+                    "length": 54,
+                    "text": "We were surprised by how good this place actually is. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 440,
+                            "length": 5,
+                            "text": "place",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 430,
+                            "length": 4,
+                            "text": "good",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 1,
+                        "negative": 0
+                    },
+                    "offset": 458,
+                    "length": 19,
+                    "text": "Our room was 6035. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.44,
+                        "neutral": 0.41,
+                        "negative": 0.15
+                    },
+                    "offset": 477,
+                    "length": 174,
+                    "text": "Our room had a king sized bed (rare in central London) and loads of space - so much space it was obvious a sofa bed was supposed to be in here too but that didn't bother us. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.01,
+                        "negative": 0.96
+                    },
+                    "offset": 651,
+                    "length": 88,
+                    "text": "The bathroom had clearly been recently renovated and it couldn't have been done better.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.52,
+                        "neutral": 0.35,
+                        "negative": 0.12
+                    },
+                    "offset": 739,
+                    "length": 226,
+                    "text": "The hotel corridors suggest a very run down place well past its best with printed paper direction signs but the moment you're in your room you realise the management here are trying to really bring it up to a higher standard. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.83,
+                        "neutral": 0.03,
+                        "negative": 0.14
+                    },
+                    "offset": 965,
+                    "length": 116,
+                    "text": "It's a solid 2-3 star hotel and a better standard than most chain budget hotels (think good bed but no toiletries). ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1059,
+                            "length": 3,
+                            "text": "bed",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/7/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1054,
+                            "length": 4,
+                            "text": "good",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.69,
+                        "neutral": 0.02,
+                        "negative": 0.29
+                    },
+                    "offset": 1081,
+                    "length": 116,
+                    "text": "With the best will in the world this is not in any way a 4 star hotel but it could easily be so with little effort. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1147,
+                            "length": 5,
+                            "text": "hotel",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/8/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/8/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1092,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1140,
+                            "length": 6,
+                            "text": "4 star",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 1197,
+                    "length": 219,
+                    "text": "My wife said the noise from the street was very loud through the night and the lack of a noisy air con unit to provide white noise to mask the sound from the street was frustrating but I slept through it all no problem.",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.04,
+                                "negative": 0.96
+                            },
+                            "offset": 1216,
+                            "length": 5,
+                            "text": "noise",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/9/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.04,
+                                "negative": 0.96
+                            },
+                            "offset": 1247,
+                            "length": 4,
+                            "text": "loud",
+                            "isNegated": false
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
